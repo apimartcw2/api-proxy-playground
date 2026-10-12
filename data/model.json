@@ -1,0 +1,15 @@
+{
+  "id": "seedream-4-0",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-12T10:24:03Z",
+  "prices": {
+    "default": {
+      "list": 0.024375,
+      "effective": 0.0195
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.0195 per image",
+  "model_page": "https://apimart.ai/model/seedream-4"
+}
